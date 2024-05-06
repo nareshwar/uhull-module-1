@@ -1,0 +1,11 @@
+Univariate:
+    Histogram/Density-plots
+    PDF
+    CDF
+    Box-plots
+    Violin-plots
+
+Bivariate:
+    Scatter-plots
+    Pair-plots
+    Heat-map (matplotlib)
